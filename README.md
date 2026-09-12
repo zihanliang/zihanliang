@@ -4,7 +4,7 @@
 
 <p align="center"><sub><samp>STATISTICAL ML&nbsp;&nbsp;·&nbsp;&nbsp;LONGITUDINAL EHR&nbsp;&nbsp;·&nbsp;&nbsp;MULTIMODAL LEARNING</samp></sub></p>
 
-<h1 align="center">Zihan Liang</h1>
+<h3 align="center">Zihan Liang</h3>
 
 <p align="center">
   🎓 Ph.D. Student in Computational Biology &amp; Bioinformatics at Duke University<br/>
