@@ -4,13 +4,13 @@
 
 <p align="center"><sub><samp>STATISTICAL ML&nbsp;&nbsp;·&nbsp;&nbsp;LONGITUDINAL EHR&nbsp;&nbsp;·&nbsp;&nbsp;MULTIMODAL LEARNING</samp></sub></p>
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/name-light.svg">
-    <img src="./assets/name-light.svg" width="420" alt="Zihan Liang" />
+    <img src="./assets/name-light.svg" width="360" alt="Zihan Liang" align="middle" />
   </picture>
-</p>
+</div>
 
 <p align="center">
   🎓 Ph.D. Student in Computational Biology &amp; Bioinformatics at Duke University<br/>
