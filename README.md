@@ -35,45 +35,45 @@ I develop statistical and machine-learning methods for complex health data. My c
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CausalMLResearch/OPL-MT-MNAR">OPL-MT-MNAR</a></h3>
-      <sub>ACL 2026 Findings · equal contribution</sub>
-      <p>Dynamic representations and offline treatment policies learned from longitudinal, multimodal clinical time series.</p>
-      <a href="https://arxiv.org/abs/2604.21235">paper</a> · <a href="https://github.com/CausalMLResearch/OPL-MT-MNAR">code</a>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><a href="https://github.com/CausalMLResearch/OPL-MT-MNAR">OPL-MT-MNAR</a></h3>
+      <p align="center"><sub>ACL 2026 Findings · Co-first author</sub></p>
+      <p align="center">Dynamic representations and offline treatment policies learned from longitudinal, multimodal clinical time series.</p>
+      <p align="center"><a href="https://arxiv.org/abs/2604.21235">Paper</a> · <a href="https://github.com/CausalMLResearch/OPL-MT-MNAR">Code</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CausalMLResearch/CRL-MMNAR">CRL-MMNAR</a></h3>
-      <sub>EMNLP 2025 Main · equal contribution</sub>
-      <p>Representation learning across structured EHRs, clinical text, and medical images under non-random modality availability.</p>
-      <a href="https://arxiv.org/abs/2509.17228">paper</a> · <a href="https://github.com/CausalMLResearch/CRL-MMNAR">code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://ieeexplore.ieee.org/document/11462566">MambaDATG</a></h3>
-      <sub>ICASSP 2026 · Oral · equal contribution</sub>
-      <p>Domain-adaptive tri-plane-gated state-space pre-training for efficient and direction-aware 3D abdominal segmentation.</p>
-      <a href="https://ieeexplore.ieee.org/document/11462566">paper</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CausalMLResearch/TS-SSM">TS-SSM</a></h3>
-      <sub>EMNLP 2026 Findings · equal contribution</sub>
-      <p>Two-sided state-space models for recommendation when user preferences, item states, and multimodal review feedback evolve together.</p>
-      <a href="https://arxiv.org/abs/2609.00165">paper</a> · <a href="https://github.com/CausalMLResearch/TS-SSM">code</a>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><a href="https://github.com/CausalMLResearch/CRL-MMNAR">CRL-MMNAR</a></h3>
+      <p align="center"><sub>EMNLP 2025 Main · Co-first author</sub></p>
+      <p align="center">Representation learning across structured EHRs, clinical text, and medical images under non-random modality availability.</p>
+      <p align="center"><a href="https://arxiv.org/abs/2509.17228">Paper</a> · <a href="https://github.com/CausalMLResearch/CRL-MMNAR">Code</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/zihanliang/DART">DART</a></h3>
-      <sub>ACL 2026 Findings · equal contribution</sub>
-      <p>A distill–audit–repair pipeline that improves difference-aware LLM reasoning while mitigating harmful rationale drift.</p>
-      <a href="https://arxiv.org/abs/2604.16845">paper</a> · <a href="https://github.com/zihanliang/DART">code</a>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><a href="https://ieeexplore.ieee.org/document/11462566">MambaDATG</a></h3>
+      <p align="center"><sub>ICASSP 2026 · Oral · Co-first author</sub></p>
+      <p align="center">Domain-adaptive tri-plane-gated state-space pre-training for efficient and direction-aware 3D abdominal segmentation.</p>
+      <p align="center"><a href="https://ieeexplore.ieee.org/document/11462566">Paper</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/zihanliang/CARELAB-SMM4H2025">CareLab at SMM4H-HeaRD</a></h3>
-      <sub>2025 · Task 5: 1st place</sub>
-      <p>Domain-aware transformer systems for insomnia detection and food-safety event extraction from noisy real-world text.</p>
-      <a href="https://workshop-proceedings.icwsm.org/abstract.php?id=2025_59">paper</a> · <a href="https://github.com/zihanliang/CARELAB-SMM4H2025">code</a>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><a href="https://github.com/CausalMLResearch/TS-SSM">TS-SSM</a></h3>
+      <p align="center"><sub>EMNLP 2026 Findings · Co-first author</sub></p>
+      <p align="center">Two-sided state-space models for recommendation when user preferences, item states, and multimodal review feedback evolve together.</p>
+      <p align="center"><a href="https://arxiv.org/abs/2609.00165">Paper</a> · <a href="https://github.com/CausalMLResearch/TS-SSM">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><a href="https://github.com/zihanliang/DART">DART</a></h3>
+      <p align="center"><sub>ACL 2026 Findings · Co-first author</sub></p>
+      <p align="center">A distill–audit–repair pipeline that improves difference-aware LLM reasoning while mitigating harmful rationale drift.</p>
+      <p align="center"><a href="https://arxiv.org/abs/2604.16845">Paper</a> · <a href="https://github.com/zihanliang/DART">Code</a></p>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><a href="https://github.com/zihanliang/CARELAB-SMM4H2025">CareLab at SMM4H-HeaRD</a></h3>
+      <p align="center"><sub>2025 · Task 5: 1st place</sub></p>
+      <p align="center">Domain-aware transformer systems for insomnia detection and food-safety event extraction from noisy real-world text.</p>
+      <p align="center"><a href="https://workshop-proceedings.icwsm.org/abstract.php?id=2025_59">Paper</a> · <a href="https://github.com/zihanliang/CARELAB-SMM4H2025">Code</a></p>
     </td>
   </tr>
 </table>
