@@ -19,8 +19,6 @@
   <a href="mailto:zihan.liang@duke.edu">✉️ Email</a>
 </p>
 
----
-
 ## 🔬 What I’m exploring
 
 > How can statistical and machine-learning methods help us learn more reliably from longitudinal, heterogeneous health data?
